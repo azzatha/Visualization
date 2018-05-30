@@ -11,19 +11,19 @@
             "annots": [
                 [
                     "<a target=\"_blank\" href=\"https://www.omim.org/entry/608456\">OMIM=608456;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
-                    45799, 
+                    45798555, 
                     0, 
                     1
                 ], 
                 [
                     "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">OMIM=274270;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
-                    98349, 
+                    98348885, 
                     0, 
                     1
                 ], 
                 [
                     "<a target=\"_blank\" href=\"https://www.omim.org/entry/604772\">OMIM=604772;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
-                    237496, 
+                    237495080, 
                     0, 
                     0
                 ]
