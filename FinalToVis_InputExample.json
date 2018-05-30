@@ -14,39 +14,9 @@
                     0, 
                     1
                 ], 
-                [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">OMIM=274270;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
-                    98348885, 
-                    0, 
-                    1
-                ], 
-                [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604772\">OMIM=604772;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
-                    237495080, 
-                    0, 
-                    0
-                ]
+               
             ]
-        },
-        {
-            "chr": "20", 
-            "annots": []
-        }, 
-        {
-            "chr": "21", 
-            "annots": []
-        }, 
-        {
-            "chr": "22", 
-            "annots": []
-        }, 
-        {
-            "chr": "X", 
-            "annots": []
-        }, 
-        {
-            "chr": "Y", 
-            "annots": []
         }
+        
     ]
 }
