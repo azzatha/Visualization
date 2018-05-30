@@ -28,6 +28,168 @@
                     0
                 ]
             ]
+        },
+        {
+            "chr": "2", 
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/259900\">OMIM=259900;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    241817176, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/259900\">OMIM=259900;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    241816871, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">OMIM=142335;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    60720246, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">OMIM=143890;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    21266774, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614881\">OMIM=614881;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    220144260, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">OMIM=615188;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    209010777, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    189860996, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    189861396, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    189862203, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/130050\">OMIM=130050;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    189860128, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32289746, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32338915, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32290040, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32373645, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32381110, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32381109, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32378604, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/259900\">OMIM=259900;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    241816545, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32290147, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32373514, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">OMIM=237900;modeOfInheritance=Recessive;CVStatus=Carrier_of_Disease</a>", 
+                    234667582, 
+                    0, 
+                    1
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32290331, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32339040, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32339561, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32373298, 
+                    0, 
+                    0
+                ], 
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/182601\">OMIM=182601;modeOfInheritance=Dominant;CVStatus=Have_the_Disease</a>", 
+                    32372096, 
+                    0, 
+                    0
+                ]
+            ]
         }
+        
     ]
 }
