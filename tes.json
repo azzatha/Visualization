@@ -11,7 +11,7 @@
             "chr": "1",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">CVDisease=Dihydropyrimidine_dehydrogenase_deficiency,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">CVDisease=Dihydropyrimidine_dehydrogenase_deficiency'\n',CVStatus=Carrier_of_Disease</a>",
                     98348885,
                     0,
                     1,
