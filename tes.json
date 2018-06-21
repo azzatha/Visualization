@@ -1,0 +1,251 @@
+{
+    "keys": [
+        "name",
+        "start",
+        "length",
+        "trackIndex"
+    ],
+    "annots": [
+        {
+            "chr": "1",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">CVDisease=Dihydropyrimidine_dehydrogenase_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    98348885,
+                    0,
+                    1
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">CVDisease=Basal_laminar_drusen|Age-related_macular_degeneration_4\n,CVStatus=Carrier_of_Disease</a>",
+                    196659237,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "2",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">CVDisease=Lucey-Driscoll_syndrome\n,CVStatus=Carrier_of_Disease</a>",
+                    234667582,
+                    0,
+                    1
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">CVDisease=Cataract_39,_multiple_types\n,CVStatus=Have_the_Disease</a>",
+                    209010777,
+                    0,
+                    0
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">CVDisease=Fetal_hemoglobin_quantitative_trait_locus_5\n,CVStatus=Carrier_of_Disease</a>",
+                    60720246,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "3",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614321\">CVDisease=Distal_myopathy,_Tateyama_type\n,CVStatus=Carrier_of_Disease</a>",
+                    8775661,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "4",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">CVDisease=Prekallikrein_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    187158034,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "5",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">CVDisease=Bifunctional_peroxisomal_enzyme_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    118811533,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "6",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613225\">CVDisease=Factor_XIII_subunit_A_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    6320808,
+                    0,
+                    1
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">CVDisease=Estrogen_resistance\n,CVStatus=Carrier_of_Disease</a>",
+                    151948366,
+                    0,
+                    1
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/201910\">CVDisease=Inborn_genetic_diseases|21-hydroxylase_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    32006858,
+                    0,
+                    1
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">CVDisease=Estrogen_resistance\n,CVStatus=Carrier_of_Disease</a>",
+                    151936677,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "7",
+            "annots": []
+        },
+        {
+            "chr": "8",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">CVDisease=Achromatopsia_3\n,CVStatus=Carrier_of_Disease</a>",
+                    87679303,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "9",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">CVDisease=Metaphyseal_chondrodysplasia,_McKusick_type\n,CVStatus=Carrier_of_Disease</a>",
+                    35658020,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "10",
+            "annots": []
+        },
+        {
+            "chr": "11",
+            "annots": []
+        },
+        {
+            "chr": "12",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613561\">CVDisease=Myopathy,_lactic_acidosis,_and_sideroblastic_anemia_2\n,CVStatus=Carrier_of_Disease</a>",
+                    32908237,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "13",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/278780\">CVDisease=Xeroderma_pigmentosum,_group_G\n,CVStatus=Carrier_of_Disease</a>",
+                    103527930,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "14",
+            "annots": []
+        },
+        {
+            "chr": "15",
+            "annots": []
+        },
+        {
+            "chr": "16",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease=Pseudoxanthoma_elasticum\n,CVStatus=Carrier_of_Disease</a>",
+                    16291871,
+                    0,
+                    1
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease=Pseudoxanthoma_elasticum\n,CVStatus=Carrier_of_Disease</a>",
+                    16291858,
+                    0,
+                    1
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease=Pseudoxanthoma_elasticum\n,CVStatus=Carrier_of_Disease</a>",
+                    16243973,
+                    0,
+                    1
+                ]
+            ]
+        },
+        {
+            "chr": "17",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">CVDisease=Hereditary_breast_and_ovarian_cancer_syndrome|Breast-ovarian_cancer,_familial_1\n,CVStatus=Carrier_of_Disease</a>",
+                    41244936,
+                    0,
+                    0
+                ],
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">CVDisease=Breast-ovarian_cancer,_familial_1\n,CVStatus=Carrier_of_Disease</a>",
+                    41245471,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "18",
+            "annots": []
+        },
+        {
+            "chr": "19",
+            "annots": [
+                [
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">CVDisease=Familial_hypercholesterolemia\n,CVStatus=Have_the_Disease</a>",
+                    11227602,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "20",
+            "annots": []
+        },
+        {
+            "chr": "21",
+            "annots": []
+        },
+        {
+            "chr": "22",
+            "annots": []
+        },
+        {
+            "chr": "X",
+            "annots": []
+        },
+        {
+            "chr": "Y",
+            "annots": []
+        }
+    ]
+}
