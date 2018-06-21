@@ -11,11 +11,11 @@
             "chr": "1",
             "annots": [
                 [
-                    "test Value",
                     "<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">CVDisease=Dihydropyrimidine_dehydrogenase_deficiency,CVStatus=Carrier_of_Disease</a>",
                     98348885,
                     0,
-                    1
+                    1,
+                    "lll"
                 ],
                 [
                     "<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">CVDisease=Basal_laminar_drusen|Age-related_macular_degeneration_4\n,CVStatus=Carrier_of_Disease</a>",
