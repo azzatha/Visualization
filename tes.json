@@ -11,13 +11,14 @@
             "chr": "1",
             "annots": [
                 [
-                    "CVDisease=Dihydropyrimidine_dehydrogenase_deficiency<br />,CVStatus=Carrier_of_Disease\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
+                    "CVDisease:Dihydropyrimidine_dehydrogenase_deficiency<br />CVStatus:Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
                     98348885,
                     0,
-                    3
+                    0,
+                    "test Value"
                 ],
                 [
-                    "CVDisease=Basal_laminar_drusen|Age-related_macular_degeneration_4\n,CVStatus=Carrier_of_Disease\n<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">More Info</a>",
+                    "CVDisease:Basal_laminar_drusen|Age-related_macular_degeneration_4<br />CVStatus:Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">More Info</a>",
                     196659237,
                     0,
                     0,
@@ -29,19 +30,19 @@
             "chr": "2",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">CVDisease=Lucey-Driscoll_syndrome\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">CVDisease:Lucey-Driscoll_syndrome<br />CVStatus:Carrier_of_Disease<br /></a>",
                     234667582,
                     0,
-                    1
+                    0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">CVDisease=Cataract_39,_multiple_types\n,CVStatus=Have_the_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">CVDisease:Cataract_39,_multiple_types<br />CVStatus:Have_the_Disease<br /></a>",
                     209010777,
                     0,
                     0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">CVDisease=Fetal_hemoglobin_quantitative_trait_locus_5\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">CVDisease:Fetal_hemoglobin_quantitative_trait_locus_5<br />CVStatus:Carrier_of_Disease<br /></a>",
                     60720246,
                     0,
                     0
@@ -52,7 +53,7 @@
             "chr": "3",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614321\">CVDisease=Distal_myopathy,_Tateyama_type\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/614321\">CVDisease:Distal_myopathy,_Tateyama_type<br />CVStatus:Carrier_of_Disease<br /></a>",
                     8775661,
                     0,
                     0
@@ -63,10 +64,10 @@
             "chr": "4",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">CVDisease=Prekallikrein_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">CVDisease:Prekallikrein_deficiency<br />CVStatus:Carrier_of_Disease<br /></a>",
                     187158034,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -74,10 +75,10 @@
             "chr": "5",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">CVDisease=Bifunctional_peroxisomal_enzyme_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">CVDisease:Bifunctional_peroxisomal_enzyme_deficiency<br />CVStatus:Carrier_of_Disease<br /></a>",
                     118811533,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -85,28 +86,28 @@
             "chr": "6",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613225\">CVDisease=Factor_XIII_subunit_A_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613225\">CVDisease:Factor_XIII_subunit_A_deficiency<br />CVStatus:Carrier_of_Disease<br /></a>",
                     6320808,
                     0,
-                    1
+                    0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">CVDisease=Estrogen_resistance\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">CVDisease:Estrogen_resistance<br />CVStatus:Carrier_of_Disease<br /></a>",
                     151948366,
                     0,
-                    1
+                    0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/201910\">CVDisease=Inborn_genetic_diseases|21-hydroxylase_deficiency\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/201910\">CVDisease:Inborn_genetic_diseases|21-hydroxylase_deficiency<br />CVStatus:Carrier_of_Disease<br /></a>",
                     32006858,
                     0,
-                    1
+                    0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">CVDisease=Estrogen_resistance\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">CVDisease:Estrogen_resistance<br />CVStatus:Carrier_of_Disease<br /></a>",
                     151936677,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -118,10 +119,10 @@
             "chr": "8",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">CVDisease=Achromatopsia_3\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">CVDisease:Achromatopsia_3<br />CVStatus:Carrier_of_Disease<br /></a>",
                     87679303,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -129,10 +130,10 @@
             "chr": "9",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">CVDisease=Metaphyseal_chondrodysplasia,_McKusick_type\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">CVDisease:Metaphyseal_chondrodysplasia,_McKusick_type<br />CVStatus:Carrier_of_Disease<br /></a>",
                     35658020,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -148,10 +149,10 @@
             "chr": "12",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613561\">CVDisease=Myopathy,_lactic_acidosis,_and_sideroblastic_anemia_2\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/613561\">CVDisease:Myopathy,_lactic_acidosis,_and_sideroblastic_anemia_2<br />CVStatus:Carrier_of_Disease<br /></a>",
                     32908237,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -159,10 +160,10 @@
             "chr": "13",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/278780\">CVDisease=Xeroderma_pigmentosum,_group_G\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/278780\">CVDisease:Xeroderma_pigmentosum,_group_G<br />CVStatus:Carrier_of_Disease<br /></a>",
                     103527930,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -178,22 +179,22 @@
             "chr": "16",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease=Pseudoxanthoma_elasticum\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease:Pseudoxanthoma_elasticum<br />CVStatus:Carrier_of_Disease<br /></a>",
                     16291871,
                     0,
-                    1
+                    0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease=Pseudoxanthoma_elasticum\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease:Pseudoxanthoma_elasticum<br />CVStatus:Carrier_of_Disease<br /></a>",
                     16291858,
                     0,
-                    1
+                    0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease=Pseudoxanthoma_elasticum\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">CVDisease:Pseudoxanthoma_elasticum<br />CVStatus:Carrier_of_Disease<br /></a>",
                     16243973,
                     0,
-                    1
+                    0
                 ]
             ]
         },
@@ -201,13 +202,13 @@
             "chr": "17",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">CVDisease=Hereditary_breast_and_ovarian_cancer_syndrome|Breast-ovarian_cancer,_familial_1\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">CVDisease:Hereditary_breast_and_ovarian_cancer_syndrome|Breast-ovarian_cancer,_familial_1<br />CVStatus:Carrier_of_Disease<br /></a>",
                     41244936,
                     0,
                     0
                 ],
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">CVDisease=Breast-ovarian_cancer,_familial_1\n,CVStatus=Carrier_of_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">CVDisease:Breast-ovarian_cancer,_familial_1<br />CVStatus:Carrier_of_Disease<br /></a>",
                     41245471,
                     0,
                     0
@@ -222,7 +223,7 @@
             "chr": "19",
             "annots": [
                 [
-                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">CVDisease=Familial_hypercholesterolemia\n,CVStatus=Have_the_Disease</a>",
+                    "<a target=\"_blank\" href=\"https://www.omim.org/entry/143890\">CVDisease:Familial_hypercholesterolemia<br />CVStatus:Have_the_Disease<br /></a>",
                     11227602,
                     0,
                     0
