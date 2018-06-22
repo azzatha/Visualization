@@ -14,13 +14,13 @@
                     "CVDisease=Dihydropyrimidine_dehydrogenase_deficiency<br />,CVStatus=Carrier_of_Disease\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
                     98348885,
                     0,
-                    3
+                    5
                 ],
                 [
                     "CVDisease=Basal_laminar_drusen|Age-related_macular_degeneration_4\n,CVStatus=Carrier_of_Disease\n<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">More Info</a>",
                     196659237,
                     0,
-                    4,
+                    0,
                     "test Value"
                 ]
             ]
