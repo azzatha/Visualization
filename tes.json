@@ -13,13 +13,13 @@
                     "CVDisease: Dihydropyrimidine_dehydrogenase_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
                     1,
                     0,
-                    0
+                    255,0,0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     543509,
                     0,
-                    1
+                    0,255,0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
@@ -102,31 +102,31 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     19225745,
                     0,
-                    1
+                    0,128,0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     47836002,
                     0,
-                    2
+                    0,128,0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     46217988,
                     0,
-                    3
+                    0,255,0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     9579663,
                     0,
-                    4
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     36863579,
                     0,
-                    5
+                    0
                 ],
                 [
                     "CVDisease: Cataract_39,_multiple_types<br />CVStatus: Have_the_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">More Info</a>",
@@ -150,13 +150,13 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5996178,
                     0,
-                    2
+                    0
                 ],
                 [
                     "CVDisease: Fetal_hemoglobin_quantitative_trait_locus_5<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">More Info</a>",
                     13493389,
                     0,
-                    2
+                    0
                 ]
             ]
         },
@@ -179,7 +179,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     47450966,
                     0,
-                    3
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
