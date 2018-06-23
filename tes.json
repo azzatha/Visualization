@@ -300,6 +300,94 @@
                     0
                 ]
             ]
+        },
+        {
+            "chr": "6",
+            "annots": [
+                [
+                    "CVDisease: Estrogen_resistance<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">More Info</a>",
+                    151936677,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    152469204,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    80721480,
+                    0,
+                    0
+                ],
+                [
+                    "CVDisease: Factor_XIII_subunit_A_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/613225\">More Info</a>",
+                    6320808,
+                    0,
+                    0
+                ],
+                [
+                    "CVDisease: Inborn_genetic_diseases|21-hydroxylase_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/201910\">More Info</a>",
+                    32006858,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    44922299,
+                    0,
+                    0
+                ],
+                [
+                    "CVDisease: Estrogen_resistance<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">More Info</a>",
+                    151948366,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    109175625,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "7",
+            "annots": [
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    27135338,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    30951672,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    107820819,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    129095163,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    155251100,
+                    0,
+                    0
+                ]
+            ]
         }
         ]
 }
