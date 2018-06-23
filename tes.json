@@ -94,6 +94,72 @@
                     4
                 ]
             ]
+           
+        },
+         {
+            "chr": "2",
+            "annots": [
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    97482646,
+                    0,
+                    4
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    239180006,
+                    0,
+                    4
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    227924322,
+                    0,
+                    4
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    46603764,
+                    0,
+                    4
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    176945176,
+                    0,
+                    4
+                ],
+                [
+                    "CVDisease: Cataract_39,_multiple_types<br />CVStatus: Have_the_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">More Info</a>",
+                    209010777,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    88409984,
+                    0,
+                    4
+                ],
+                [
+                    "CVDisease: Lucey-Driscoll_syndrome<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">More Info</a>",
+                    234667582,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    27324354,
+                    0,
+                    4
+                ],
+                [
+                    "CVDisease: Fetal_hemoglobin_quantitative_trait_locus_5<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">More Info</a>",
+                    60720246,
+                    0,
+                    0
+                ]
+            ]
         }
        
     ]
