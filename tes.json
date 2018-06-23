@@ -31,7 +31,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5961392,
                     0,
-                    0,255,0
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
@@ -43,7 +43,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     76165803,
                     0,
-                    255
+                    0
                 ]
                     
             ]
@@ -61,7 +61,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     47836002,
                     0,
-                    128
+                    0
                 ]
              ]
         }          
