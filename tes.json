@@ -428,12 +428,6 @@
             "chr": "9",
             "annots": [
                 [
-                    "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: hydrochlorothiazide;PharmPhenotypesHit=Hypertension_<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    11018077,
-                    0,
-                    0
-                ],
-                [
                     "CVDisease: Metaphyseal_chondrodysplasia,_McKusick_type<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">More Info</a>",
                     35658020,
                     0,
