@@ -218,6 +218,59 @@
                     0
                 ]
             ]
+        },
+        {
+            "chr": "4",
+            "annots": [
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    983753,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    3475187,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    41633172,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    47537548,
+                    0,
+                    0
+                ],
+                [
+                    "CVDisease: Prekallikrein_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">More Info</a>",
+                    187158034,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    79831847,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    108552883,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    175231175,
+                    0,
+                    0
+                ]
+            ]
         }
         ]
 }
