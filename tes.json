@@ -13,19 +13,19 @@
                     "CVDisease: Dihydropyrimidine_dehydrogenase_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
                     1,
                     0,
-                    255,0,0
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     543509,
                     0,
-                    0,255,0
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3700518,
                     0,
-                    255,0,0
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
@@ -37,20 +37,15 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     15659296,
                     0,
-                    0,255,0
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     76165803,
                     0,
-                    0,255,0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    46550935,
-                    0,
-                    0,255,0
-                ]             
+                    255
+                ]
+                    
             ]
         },
         {
@@ -60,19 +55,13 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     19225745,
                     0,
-                    0,128,0
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     47836002,
                     0,
-                    0,128,0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    46217988,
-                    0,
-                    0,255,0
+                    128
                 ]
              ]
         }          
