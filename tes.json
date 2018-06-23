@@ -388,6 +388,135 @@
                     0
                 ]
             ]
+        },
+        {
+            "chr": "8",
+            "annots": [
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    124335225,
+                    0,
+                    0
+                ],
+                [
+                    "CVDisease: Achromatopsia_3<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">More Info</a>",
+                    87679303,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    144801230,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    57905903,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    139606280,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "9",
+            "annots": [
+                [
+                    "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: hydrochlorothiazide;PharmPhenotypesHit=Hypertension_<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    11018077,
+                    0,
+                    0
+                ],
+                [
+                    "CVDisease: Metaphyseal_chondrodysplasia,_McKusick_type<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">More Info</a>",
+                    35658020,
+                    0,
+                    0
+                ],
+                [
+                    "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol,bisoprolol;PharmPhenotypesHit=Hypertension_<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    11018077,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    86474241,
+                    0,
+                    0
+                ],
+                [
+                    "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol;PharmPhenotypesHit=Hypertension_<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    11028275,
+                    0,
+                    0
+                ],
+                [
+                    "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol;PharmPhenotypesHit=Hypertension_<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    8176226,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    139911697,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    27359226,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    79318384,
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "chr": "10",
+            "annots": [
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    70115127,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    35322199,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    115662243,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    69881361,
+                    0,
+                    0
+                ],
+                [
+                    "Predicted Pathogenic\n<a target=\"_blank\" href=\"None\">More Info</a>",
+                    12139706,
+                    0,
+                    0
+                ]
+            ]
         }
         ]
 }
