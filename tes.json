@@ -424,78 +424,60 @@
                 ]
             ]
         },
-          {
+         {
             "chr": "9",
             "annots": [
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: hydrochlorothiazide<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        1377260
-                    ],
+                    1377260,
                     0,
                     0
                 ],
                 [
                     "CVDisease: Metaphyseal_chondrodysplasia,_McKusick_type<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">More Info</a>",
-                    [
-                        4492911
-                    ],
+                    4492911,
                     0,
                     0
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol,bisoprolol<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        1399296
-                    ],
+                    1399296,
                     0,
                     0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        11068703
-                    ],
+                    11068703,
                     0,
                     0
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        1422648
-                    ],
+                    1422648,
                     0,
                     0
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        1062910
-                    ],
+                    1062910,
                     0,
                     0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        18328433
-                    ],
+                    18328433,
                     0,
                     0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        3611418
-                    ],
+                    3611418,
                     0,
                     0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    [
-                        10549346
-                    ],
+                    10549346,
                     0,
                     0
                 ]
