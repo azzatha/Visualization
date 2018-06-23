@@ -13,7 +13,7 @@
                     "CVDisease: Dihydropyrimidine_dehydrogenase_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
                     1,
                     0,
-                    0
+                    0, 190, 0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
@@ -25,27 +25,20 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3700518,
                     0,
-                    0
+                    0, 190, 0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5961392,
                     0,
-                    0
+                    0, 190, 0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     15659296,
                     0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
-                    76165803,
-                    0,
-                    0
-                ]
-                    
+                    0, 190, 0
+                ] 
             ]
         },
         {
