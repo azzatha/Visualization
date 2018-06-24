@@ -13,73 +13,73 @@
                     "CVDisease: Dihydropyrimidine_dehydrogenase_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
                     1,
                     0,
-                    0,0,0
+                    0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     543509,
                     0,
-                    1
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3700518,
                     0,
-                    0,200,0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5961392,
                     0,
-                    1
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     15659296,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     76165803,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     46550935,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     118814018,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     146874222,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     171217998,
                     0,
-                    1
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     192440161,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     214052462,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Basal_laminar_drusen|Age-related_macular_degeneration_4<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">More Info</a>",
@@ -91,7 +91,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     218068699,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -102,31 +102,31 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     19225745,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     47836002,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     46217988,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     9579663,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     36863579,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Cataract_39,_multiple_types<br />CVStatus: Have_the_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615188\">More Info</a>",
@@ -138,7 +138,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     18909914,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Lucey-Driscoll_syndrome<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/237900\">More Info</a>",
@@ -150,7 +150,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5996178,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Fetal_hemoglobin_quantitative_trait_locus_5<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/142335\">More Info</a>",
@@ -167,31 +167,31 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     36075209,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     34414053,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     47450966,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     31946444,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     4869933,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Distal_myopathy,_Tateyama_type<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/614321\">More Info</a>",
@@ -203,19 +203,19 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     7095099,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     28880181,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8626798,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -226,25 +226,25 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     259602,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     926717,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     11217827,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     12940777,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Prekallikrein_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/612423\">More Info</a>",
@@ -256,19 +256,19 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     22175514,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     30455115,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     49648833,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -279,19 +279,19 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     49828078,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     22051594,
                     0,
-                    0
+                    4
                 ],
                 [
                     "GWASdiseaseHit: Lung_cancer_in_ever_smokers<br />\n<a target=\"_blank\" href=\"http://www.ebi.ac.uk/efo/EFO_0006527\">More Info</a>",
                     293006,
                     0,
-                    0
+                    1
                 ],
                 [
                     "CVDisease: Bifunctional_peroxisomal_enzyme_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/261515\">More Info</a>",
@@ -314,13 +314,13 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     45740762,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     24440671,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Factor_XIII_subunit_A_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/613225\">More Info</a>",
@@ -338,7 +338,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     13975827,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Estrogen_resistance<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/615363\">More Info</a>",
@@ -350,7 +350,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     34572282,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -361,31 +361,31 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8668233,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     9973317,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     35041767,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     42314526,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     51319114,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -396,7 +396,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     41445076,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Achromatopsia_3<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/262300\">More Info</a>",
@@ -408,19 +408,19 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     49071528,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     19784517,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     48086608,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -431,7 +431,7 @@
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: hydrochlorothiazide<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3825722,
                     0,
-                    0
+                    3
                 ],
                 [
                     "CVDisease: Metaphyseal_chondrodysplasia,_McKusick_type<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">More Info</a>",
@@ -443,43 +443,43 @@
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol,bisoprolol<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3886933,
                     0,
-                    0
+                    3
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     30746397,
                     0,
-                    0
+                    4
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3951799,
                     0,
-                    0
+                    3
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     2952527,
                     0,
-                    0
+                    3
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     50912312,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     10031717,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     29303737,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -490,31 +490,31 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     2726700,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     1471759,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5140545,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3299954,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     606986,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -525,43 +525,43 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     219284,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     163685,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     111299,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     1891594,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     2265250,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     7923422,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     408237,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -572,7 +572,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     2796025,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Myopathy,_lactic_acidosis,_and_sideroblastic_anemia_2<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/613561\">More Info</a>",
@@ -584,25 +584,25 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     4168110,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     10656036,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     6895695,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     4552109,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -619,7 +619,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     9082643,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -630,37 +630,37 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8373320,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     9043829,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5895546,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     2574025,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     3820159,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     6025336,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -671,43 +671,43 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     7163735,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8615798,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     7947286,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8981630,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5998796,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     6788252,
                     0,
-                    0
+                    4
                 ],
                 [
                     "PharmGKPPhenotypesHit: Breast_Neoplasms_<br />ChemicalsAffect: exemestane<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     6542483,
                     0,
-                    0
+                    3
                 ]
             ]
         },
@@ -724,7 +724,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     574736,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Pseudoxanthoma_elasticum<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">More Info</a>",
@@ -742,19 +742,19 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     12027592,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     9745789,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     13087043,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -765,37 +765,37 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     12029335,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     7428942,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     7474532,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     5805586,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     6576591,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     1915482,
                     0,
-                    0
+                    4
                 ],
                 [
                     "CVDisease: Breast-ovarian_cancer,_familial_1<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/604370\">More Info</a>",
@@ -813,7 +813,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     4661172,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -824,25 +824,25 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     604886,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     2078164,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8542124,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8208669,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -859,19 +859,19 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8074361,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     777099,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     302636,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -882,25 +882,25 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     13699152,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     9815822,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     4919006,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     701821,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -911,7 +911,7 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     8509875,
                     0,
-                    0
+                    4
                 ]
             ]
         },
@@ -930,25 +930,25 @@
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     524554,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     18504870,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     25665229,
                     0,
-                    0
+                    4
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"None\">More Info</a>",
                     57216361,
                     0,
-                    0
+                    4
                 ]
             ]
         }
