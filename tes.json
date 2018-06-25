@@ -6,101 +6,7 @@
         "trackIndex"
     ],
     "annots": [
-        {
-            "chr": "1",
-            "annots": [
-                [
-                    "CVDisease: Dihydropyrimidine_dehydrogenase_deficiency<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/274270\">More Info</a>",
-                    1,
-                    0,
-                    2
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs200484616\">More Info</a>",
-                    20129419,
-                    0,
-                    0
-                ],
-                [
-                    "CVDisease: Basal_laminar_drusen|Age-related_macular_degeneration_4<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/126700\">More Info</a>",
-                    39331848,
-                    0,
-                    2
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs34984140\">More Info</a>",
-                    70053533,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs148405103\">More Info</a>",
-                    92371278,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs181874649\">More Info</a>",
-                    114145332,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs143722284\">More Info</a>",
-                    132186800,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs148318069\">More Info</a>",
-                    142576821,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs185002399\">More Info</a>",
-                    146238341,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs114486361\">More Info</a>",
-                    42280098,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs139052092\">More Info</a>",
-                    23845567,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs137904249\">More Info</a>",
-                    24423417,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=.\">More Info</a>",
-                    7826522,
-                    0,
-                    0
-                ],
-                [
-                    "DidaDiseaseHit: Familial_exudative_vitreoretinopathy<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd049\">More Info</a>",
-                    220374764,
-                    0,
-                    3
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs201080134\">More Info</a>",
-                    130342617,
-                    0,
-                    0
-                ]
-            ]
-        },
+        
         {
             "chr": "2",
             "annots": [
@@ -524,59 +430,7 @@
                 ]
             ]
         },
-        {
-            "chr": "11",
-            "annots": [
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs145770432\">More Info</a>",
-                    8309703,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs141445711\">More Info</a>",
-                    6187266,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs186236551\">More Info</a>",
-                    4197539,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs147574605\">More Info</a>",
-                    71192701,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs138978009\">More Info</a>",
-                    85094605,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs201645538\">More Info</a>",
-                    297128303,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs148345924\">More Info</a>",
-                    15284384,
-                    0,
-                    0
-                ],
-                [
-                    "DidaDiseaseHit: Autosomal_recessive_early-onset_inflammatory_bowel_disease<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd122\">More Info</a>",
-                    318248110,
-                    0,
-                    3
-                ]
-            ]
-        },
+        
         {
             "chr": "12",
             "annots": [
@@ -723,59 +577,7 @@
                 ]
             ]
         },
-        {
-            "chr": "16",
-            "annots": [
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs147961036\">More Info</a>",
-                    21121534,
-                    0,
-                    0
-                ],
-                [
-                    "CVDisease: Pseudoxanthoma_elasticum<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">More Info</a>",
-                    81459291,
-                    0,
-                    2
-                ],
-                [
-                    "CVDisease: Pseudoxanthoma_elasticum<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">More Info</a>",
-                    82844263,
-                    0,
-                    2
-                ],
-                [
-                    "CVDisease: Pseudoxanthoma_elasticum<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/264800\">More Info</a>",
-                    84717730,
-                    0,
-                    2
-                ],
-                [
-                    "DidaDiseaseHit: Bardet-Biedl_syndrome<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd071\">More Info</a>",
-                    299707056,
-                    0,
-                    3
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs150734270\">More Info</a>",
-                    480022859,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs149615348\">More Info</a>",
-                    466953548,
-                    0,
-                    0
-                ],
-                [
-                    "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs200569597\">More Info</a>",
-                    377836716,
-                    0,
-                    0
-                ]
-            ]
-        },
+       
         {
             "chr": "17",
             "annots": [
