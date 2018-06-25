@@ -87,12 +87,7 @@
                     0,
                     0
                 ],
-                [
-                    "DidaDiseaseHit: Familial_exudative_vitreoretinopathy<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd049\">More Info</a>",
-                    169519049,
-                    0,
-                    3
-                ],
+               
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs201080134\">More Info</a>",
                     93101869,
@@ -569,12 +564,7 @@
                     0,
                     0
                 ],
-                [
-                    "DidaDiseaseHit: Autosomal_recessive_early-onset_inflammatory_bowel_disease<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd122\">More Info</a>",
-                    117869670,
-                    0,
-                    3
-                ]
+                
             ]
         },
         {
@@ -750,12 +740,7 @@
                     0,
                     2
                 ],
-                [
-                    "DidaDiseaseHit: Bardet-Biedl_syndrome<br />Combination: 1<br />\n<a target=\"_blank\" href=\"http://dida.ibsquare.be/detail/?dc=dd071\">More Info</a>",
-                    56548501,
-                    0,
-                    3
-                ],
+                
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs150734270\">More Info</a>",
                     88893122,
