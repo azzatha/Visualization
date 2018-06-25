@@ -455,13 +455,13 @@
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs10739150\">More Info</a>",
                     2975238,
                     0,
-                    2
+                    1
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: hydrochlorothiazide<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs12346562\">More Info</a>",
                     4039962,
                     0,
-                    2
+                    1
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs201841310\">More Info</a>",
@@ -473,7 +473,7 @@
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol,bisoprolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs12346562\">More Info</a>",
                     4101174,
                     0,
-                    2
+                    1
                 ],
                 [
                     "CVDisease: Metaphyseal_chondrodysplasia,_McKusick_type<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">More Info</a>",
@@ -485,7 +485,7 @@
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1104514\">More Info</a>",
                     4166238,
                     0,
-                    2
+                    1
                 ]
             ]
         },
@@ -683,7 +683,7 @@
                     "PharmGKPPhenotypesHit: Breast_Neoplasms_<br />ChemicalsAffect: exemestane<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1147130\">More Info</a>",
                     5973572,
                     0,
-                    2
+                    1
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs149448818\">More Info</a>",
