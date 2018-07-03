@@ -435,55 +435,55 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs201546770\">More Info</a>",
-                    17908697216,
+                    49884951,
                     0,
                     0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs199893827\">More Info</a>",
-                    10232071536,
+                    28501593,
                     0,
                     0
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs199832959\">More Info</a>",
-                    3556699380,
+                    9907241,
                     0,
                     0
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs10739150\">More Info</a>",
-                    1071085606,
+                    2983526,
                     0,
                     1
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: hydrochlorothiazide<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs12346562\">More Info</a>",
-                    1454386164,
+                    4051215,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs201841310\">More Info</a>",
-                    11501074053,
+                    32036418,
                     0,
                     0
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol,bisoprolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs12346562\">More Info</a>",
-                    1476422318,
+                    4112597,
                     0,
                     1
                 ],
                 [
                     "CVDisease: Metaphyseal_chondrodysplasia,_McKusick_type<br />CVStatus: Carrier_of_Disease<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/250250\">More Info</a>",
-                    4813832700,
+                    13409005,
                     0,
                     2
                 ],
                 [
                     "PharmGKPPhenotypesHit: Hypertension_<br />ChemicalsAffect: atenolol<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1104514\">More Info</a>",
-                    1499845400,
+                    4177843,
                     0,
                     1
                 ]
