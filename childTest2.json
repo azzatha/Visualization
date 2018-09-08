@@ -11,223 +11,223 @@
             "annots": [
                 [
                     "CV_Disease: Immunodeficiency_38_with_basal_ganglia_calcification<br />CV_Status: Carrier_of_Disease<br />CV_Likelihood:100.0<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/616126\">More Info</a>",
-                    1,
+                    0,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit:  <br />ChemicalsAffect: cyclophosphamide<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    58982,
+                    11796321,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Neoplasms <br />ChemicalsAffect: methotrexate<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    117964,
+                    23592642,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Precursor Cell Lymphoblastic Leukemia-Lymphoma <br />ChemicalsAffect: mercaptopurine<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    176945,
+                    35388963,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Schizophrenia <br />ChemicalsAffect: antipsychotics<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    235927,
+                    47185284,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Coronary Artery Disease,Myocardial Infarction <br />ChemicalsAffect: pravastatin<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    294909,
+                    58981605,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Cocaine-Related Disorders <br />ChemicalsAffect: disulfiram<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    353890,
+                    70777926,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Graft vs Host Disease,Leukemia,Leukemia, Myelogenous, onic, BCR-ABL Positive <br />ChemicalsAffect: methotrexate<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    412872,
+                    82574247,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Carcinoma, Non-Small-Cell Lung,Mesothelioma <br />ChemicalsAffect: pemetrexed<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    471853,
+                    94370568,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Hypertension <br />ChemicalsAffect: benazepril<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    530835,
+                    106166889,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Colonic Neoplasms <br />ChemicalsAffect: fluorouracil,leucovorin,oxaliplatin<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    589817,
+                    117963210,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Arthritis, Juvenile Rheumatoid,Arthritis, Psoriatic,Arthritis, Rheumatoid,Drug Toxicity <br />ChemicalsAffect: methotrexate<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    648798,
+                    129759531,
                     0,
                     4
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Homozygote Ref\">More Info</a>",
-                    391327,
+                    78265212,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Heterozygote\">More Info</a>",
-                    423937,
+                    84787313,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs137904249;ScoreType=Homozygote Ref\">More Info</a>",
-                    1554218,
+                    310843484,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs137904249;ScoreType=Heterozygote\">More Info</a>",
-                    1665233,
+                    333046590,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs139052092;ScoreType=Heterozygote\">More Info</a>",
-                    1907646,
+                    381529056,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs139052092;ScoreType=Homozygote Ref\">More Info</a>",
-                    2026874,
+                    405374622,
                     0,
                     2
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Carcinoma, Non-Small-Cell Lung <br />ChemicalsAffect: carboplatin<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    1061669,
+                    212333778,
                     0,
                     4
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs114486361;ScoreType=Homozygote Ref\">More Info</a>",
-                    4462900,
+                    892579834,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201080134;ScoreType=Homozygote Ref\">More Info</a>",
-                    9310187,
+                    1862037380,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201080134;ScoreType=Heterozygote\">More Info</a>",
-                    9775697,
+                    1955139249,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 68.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185002399;ScoreType=Homozygote Ref\">More Info</a>",
-                    20107772,
+                    4021554350,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 32.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185002399;ScoreType=Heterozygote\">More Info</a>",
-                    21021762,
+                    4204352275,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 68.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148318069;ScoreType=Heterozygote\">More Info</a>",
-                    24441741,
+                    4888348128,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 32.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200484616;ScoreType=Heterozygote\">More Info</a>",
-                    25161773,
+                    5032354575,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 32.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148318069;ScoreType=Homozygote Ref\">More Info</a>",
-                    26478553,
+                    5295710472,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 66.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs143722284;ScoreType=Homozygote Ref\">More Info</a>",
-                    29742030,
+                    5948405964,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 68.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200484616;ScoreType=Homozygote Ref\">More Info</a>",
-                    28181186,
+                    5636237124,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 34.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs181874649;ScoreType=Homozygote Ref\">More Info</a>",
-                    33102147,
+                    6620429227,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 66.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs181874649;ScoreType=Heterozygote\">More Info</a>",
-                    34243600,
+                    6848719890,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148405103;ScoreType=Homozygote Ref\">More Info</a>",
-                    35793870,
+                    7158773983,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148405103;ScoreType=Heterozygote\">More Info</a>",
-                    36948511,
+                    7389702176,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs34984140;ScoreType=Homozygote Ref\">More Info</a>",
-                    38529444,
+                    7705888608,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs34984140;ScoreType=Heterozygote\">More Info</a>",
-                    39697002,
+                    7939400384,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs114486361;ScoreType=Heterozygote\">More Info</a>",
-                    8221131,
+                    1644226010,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 34.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs143722284;ScoreType=Heterozygote\">More Info</a>",
-                    39656040,
+                    7931207952,
                     0,
                     1
                 ]
