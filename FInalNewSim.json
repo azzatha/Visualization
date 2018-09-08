@@ -17,217 +17,217 @@
                 ],
                 [
                     "PharmGKP_PhenotypesHit:  <br />ChemicalsAffect: cyclophosphamide<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    235927,
+                    23593,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Carcinoma, Non-Small-Cell Lung <br />ChemicalsAffect: carboplatin<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    471853,
+                    47186,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Neoplasms <br />ChemicalsAffect: methotrexate<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    707780,
+                    70778,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Precursor Cell Lymphoblastic Leukemia-Lymphoma <br />ChemicalsAffect: mercaptopurine<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    943706,
+                    94371,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Schizophrenia <br />ChemicalsAffect: antipsychotics<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    1179633,
+                    117964,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Coronary Artery Disease,Myocardial Infarction <br />ChemicalsAffect: pravastatin<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    1415559,
+                    141556,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Cocaine-Related Disorders <br />ChemicalsAffect: disulfiram<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    1651485,
+                    165149,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Graft vs Host Disease,Leukemia,Leukemia, Myelogenous, onic, BCR-ABL Positive <br />ChemicalsAffect: methotrexate<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    1887412,
+                    188742,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Hypertension <br />ChemicalsAffect: benazepril<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    2123338,
+                    212334,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Colonic Neoplasms <br />ChemicalsAffect: fluorouracil,leucovorin,oxaliplatin<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    2359265,
+                    235927,
                     0,
                     4
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Arthritis, Juvenile Rheumatoid,Arthritis, Psoriatic,Arthritis, Rheumatoid,Drug Toxicity <br />ChemicalsAffect: methotrexate<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    2595191,
+                    259520,
                     0,
                     4
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Homozygote Ref\">More Info</a>",
-                    1565305,
+                    156531,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Heterozygote\">More Info</a>",
-                    1695747,
+                    169575,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs137904249;ScoreType=Homozygote Ref\">More Info</a>",
-                    6216870,
+                    621687,
                     0,
                     2
                 ],
                 [
                     "PharmGKP_PhenotypesHit: Carcinoma, Non-Small-Cell Lung,Mesothelioma <br />ChemicalsAffect: pemetrexed<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
-                    3538897,
+                    353890,
                     0,
                     4
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs139052092;ScoreType=Heterozygote\">More Info</a>",
-                    7630582,
+                    763059,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs139052092;ScoreType=Homozygote Ref\">More Info</a>",
-                    8107493,
+                    810750,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs137904249;ScoreType=Heterozygote\">More Info</a>",
-                    7993119,
+                    799312,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs114486361;ScoreType=Homozygote Ref\">More Info</a>",
-                    17851597,
+                    1785160,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs143722284;ScoreType=Homozygote Ref\">More Info</a>",
-                    88124533,
+                    8812454,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201080134;ScoreType=Homozygote Ref\">More Info</a>",
-                    39102785,
+                    3910279,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201080134;ScoreType=Heterozygote\">More Info</a>",
-                    40964823,
+                    4096483,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185002399;ScoreType=Homozygote Ref\">More Info</a>",
-                    84087046,
+                    8408705,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185002399;ScoreType=Heterozygote\">More Info</a>",
-                    87743005,
+                    8774301,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200484616;ScoreType=Homozygote Ref\">More Info</a>",
-                    100647092,
+                    10064710,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200484616;ScoreType=Heterozygote\">More Info</a>",
-                    104672976,
+                    10467298,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148318069;ScoreType=Heterozygote\">More Info</a>",
-                    109987833,
+                    10998784,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148318069;ScoreType=Homozygote Ref\">More Info</a>",
-                    114061457,
+                    11406146,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs181874649;ScoreType=Homozygote Ref\">More Info</a>",
-                    132408585,
+                    13240859,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs181874649;ScoreType=Heterozygote\">More Info</a>",
-                    136974398,
+                    13697440,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148405103;ScoreType=Homozygote Ref\">More Info</a>",
-                    143175480,
+                    14317548,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148405103;ScoreType=Heterozygote\">More Info</a>",
-                    147794044,
+                    14779405,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs34984140;ScoreType=Homozygote Ref\">More Info</a>",
-                    154117773,
+                    15411778,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs34984140;ScoreType=Heterozygote\">More Info</a>",
-                    158788008,
+                    15878801,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs114486361;ScoreType=Heterozygote\">More Info</a>",
-                    32884521,
+                    3288453,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs143722284;ScoreType=Heterozygote\">More Info</a>",
-                    158624160,
+                    15862416,
                     0,
                     2
                 ]
@@ -238,85 +238,85 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141480763;ScoreType=Heterozygote\">More Info</a>",
-                    318109408,
+                    106036470,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs183677245;ScoreType=Homozygote Ref\">More Info</a>",
-                    237106536,
+                    79035512,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141480763;ScoreType=Homozygote Ref\">More Info</a>",
-                    322893009,
+                    107631003,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs202243658;ScoreType=Heterozygote\">More Info</a>",
-                    309977078,
+                    103325693,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs202243658;ScoreType=Homozygote Ref\">More Info</a>",
-                    312256322,
+                    104085441,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs183677245;ScoreType=Heterozygote\">More Info</a>",
-                    244184343,
+                    81394781,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs190607200;ScoreType=Heterozygote\">More Info</a>",
-                    135500878,
+                    45166960,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs1057391;ScoreType=Heterozygote\">More Info</a>",
-                    38254096,
+                    12751366,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs72845818;ScoreType=Heterozygote\">More Info</a>",
-                    124658078,
+                    41552693,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs72845818;ScoreType=Homozygote Ref\">More Info</a>",
-                    125542178,
+                    41847393,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs150797491;ScoreType=Homozygote Ref\">More Info</a>",
-                    66643383,
+                    22214461,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs1057391;ScoreType=Homozygote Ref\">More Info</a>",
-                    39347070,
+                    13115690,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs190607200;ScoreType=Homozygote Ref\">More Info</a>",
-                    141349837,
+                    47116613,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs150797491;ScoreType=Heterozygote\">More Info</a>",
-                    68041496,
+                    22680499,
                     0,
                     2
                 ]
@@ -327,97 +327,97 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148154571;ScoreType=Homozygote Ref\">More Info</a>",
-                    223572671,
+                    74524224,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138138714;ScoreType=Homozygote Ref\">More Info</a>",
-                    204170081,
+                    68056694,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200656460;ScoreType=Heterozygote\">More Info</a>",
-                    177752852,
+                    59250951,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138531032;ScoreType=Homozygote Ref\">More Info</a>",
-                    31167570,
+                    10389190,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138531032;ScoreType=Heterozygote\">More Info</a>",
-                    31362367,
+                    10454123,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs12715125;ScoreType=Homozygote Ref\">More Info</a>",
-                    44976752,
+                    14992251,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs12715125;ScoreType=Heterozygote\">More Info</a>",
-                    45254387,
+                    15084796,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Homozygote Ref\">More Info</a>",
-                    54183633,
+                    18061211,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148154571;ScoreType=Heterozygote\">More Info</a>",
-                    234964909,
+                    78321637,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200656460;ScoreType=Homozygote Ref\">More Info</a>",
-                    185578449,
+                    61859483,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Homozygote Ref\">More Info</a>",
-                    252190877,
+                    84063626,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Heterozygote\">More Info</a>",
-                    253701002,
+                    84567001,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201946987;ScoreType=Homozygote Ref\">More Info</a>",
-                    328058719,
+                    109352907,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201946987;ScoreType=Heterozygote\">More Info</a>",
-                    329999895,
+                    109999965,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138138714;ScoreType=Heterozygote\">More Info</a>",
-                    220968885,
+                    73656295,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Heterozygote\">More Info</a>",
-                    56826737,
+                    18942246,
                     0,
                     2
                 ]
@@ -428,85 +428,85 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185611178;ScoreType=Homozygote Ref\">More Info</a>",
-                    82239959,
+                    27413320,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs202242030;ScoreType=Homozygote Ref\">More Info</a>",
-                    1711731,
+                    570577,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs202242030;ScoreType=Heterozygote\">More Info</a>",
-                    1721568,
+                    573856,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201953114;ScoreType=Homozygote Ref\">More Info</a>",
-                    6116330,
+                    2038777,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201953114;ScoreType=Heterozygote\">More Info</a>",
-                    6151081,
+                    2050361,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185882675;ScoreType=Homozygote Ref\">More Info</a>",
-                    74107047,
+                    24702349,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188481381;ScoreType=Homozygote Ref\">More Info</a>",
-                    142899007,
+                    47633003,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188481381;ScoreType=Heterozygote\">More Info</a>",
-                    143697325,
+                    47899109,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145511221;ScoreType=Homozygote Ref\">More Info</a>",
-                    196480719,
+                    65493573,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145511221;ScoreType=Heterozygote\">More Info</a>",
-                    197566248,
+                    65855416,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs144338962;ScoreType=Homozygote Ref\">More Info</a>",
-                    320673051,
+                    106891017,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185611178;ScoreType=Heterozygote\">More Info</a>",
-                    87469089,
+                    29156363,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs185882675;ScoreType=Heterozygote\">More Info</a>",
-                    77021369,
+                    25673790,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs144338962;ScoreType=Heterozygote\">More Info</a>",
-                    325929986,
+                    108643329,
                     0,
                     2
                 ]
@@ -517,25 +517,25 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199779834;ScoreType=Homozygote Ref\">More Info</a>",
-                    142741661,
+                    47580554,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs182690432;ScoreType=Heterozygote\">More Info</a>",
-                    327414006,
+                    109138002,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199779834;ScoreType=Heterozygote\">More Info</a>",
-                    144268310,
+                    48089437,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs182690432;ScoreType=Homozygote Ref\">More Info</a>",
-                    330897134,
+                    110299045,
                     0,
                     2
                 ]
@@ -546,49 +546,49 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141716975;ScoreType=Homozygote Ref\">More Info</a>",
-                    291216180,
+                    97072060,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147935937;ScoreType=Homozygote Ref\">More Info</a>",
-                    209617201,
+                    69872401,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188622836;ScoreType=Heterozygote\">More Info</a>",
-                    86700038,
+                    28900013,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141716975;ScoreType=Heterozygote\">More Info</a>",
-                    295790256,
+                    98596752,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188622836;ScoreType=Homozygote Ref\">More Info</a>",
-                    87598484,
+                    29199495,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147935937;ScoreType=Heterozygote\">More Info</a>",
-                    213984226,
+                    71328076,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189153762;ScoreType=Heterozygote\">More Info</a>",
-                    159021316,
+                    53007106,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189153762;ScoreType=Homozygote Ref\">More Info</a>",
-                    159828531,
+                    53276177,
                     0,
                     2
                 ]
@@ -599,61 +599,61 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs34721383;ScoreType=Homozygote Ref\">More Info</a>",
-                    107281715,
+                    71521144,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs146782650;ScoreType=Heterozygote\">More Info</a>",
-                    27135339,
+                    18090226,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200496523;ScoreType=Heterozygote\">More Info</a>",
-                    31106431,
+                    20737621,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs146782650;ScoreType=Homozygote Ref\">More Info</a>",
-                    27406692,
+                    18271128,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs34721383;ScoreType=Heterozygote\">More Info</a>",
-                    109438132,
+                    72958755,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189583337;ScoreType=Homozygote Ref\">More Info</a>",
-                    131677067,
+                    87784711,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs193264681;ScoreType=Homozygote Ref\">More Info</a>",
-                    159132378,
+                    106088252,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs193264681;ScoreType=Heterozygote\">More Info</a>",
-                    159908634,
+                    106605756,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189583337;ScoreType=Heterozygote\">More Info</a>",
-                    133613494,
+                    89075663,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200496523;ScoreType=Homozygote Ref\">More Info</a>",
-                    32189739,
+                    21459826,
                     0,
                     2
                 ]
@@ -664,49 +664,49 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs139710965;ScoreType=Heterozygote\">More Info</a>",
-                    151317286,
+                    100878191,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189210871;ScoreType=Homozygote Ref\">More Info</a>",
-                    60801199,
+                    40534133,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189210871;ScoreType=Heterozygote\">More Info</a>",
-                    61090728,
+                    40727152,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs137964625;ScoreType=Homozygote Ref\">More Info</a>",
-                    131795339,
+                    87863560,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs137964625;ScoreType=Heterozygote\">More Info</a>",
-                    132417015,
+                    88278010,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201591565;ScoreType=Homozygote Ref\">More Info</a>",
-                    149378720,
+                    99585814,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201591565;ScoreType=Heterozygote\">More Info</a>",
-                    150076752,
+                    100051168,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs139710965;ScoreType=Homozygote Ref\">More Info</a>",
-                    156385329,
+                    104256886,
                     0,
                     2
                 ]
@@ -770,61 +770,61 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201559023;ScoreType=Heterozygote\">More Info</a>",
-                    7486153,
+                    898339,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189718354;ScoreType=Homozygote Ref\">More Info</a>",
-                    44258196,
+                    5310984,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201559023;ScoreType=Homozygote Ref\">More Info</a>",
-                    7890809,
+                    946898,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs61749171;ScoreType=Homozygote Ref\">More Info</a>",
-                    23548133,
+                    2825776,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs189718354;ScoreType=Heterozygote\">More Info</a>",
-                    47752264,
+                    5730272,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201819624;ScoreType=Homozygote Ref\">More Info</a>",
-                    49080589,
+                    5889671,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201819624;ScoreType=Heterozygote\">More Info</a>",
-                    50249175,
+                    6029901,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141253953;ScoreType=Homozygote Ref\">More Info</a>",
-                    84818979,
+                    10178278,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141253953;ScoreType=Heterozygote\">More Info</a>",
-                    86746683,
+                    10409602,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs61749171;ScoreType=Heterozygote\">More Info</a>",
-                    27080353,
+                    3249643,
                     0,
                     2
                 ]
@@ -835,85 +835,85 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201645538;ScoreType=Homozygote Ref\">More Info</a>",
-                    15960035,
+                    11172025,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138978009;ScoreType=Heterozygote\">More Info</a>",
-                    4862549,
+                    3403785,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138978009;ScoreType=Homozygote Ref\">More Info</a>",
-                    4963852,
+                    3474697,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147574605;ScoreType=Heterozygote\">More Info</a>",
-                    4421907,
+                    3095335,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148345924;ScoreType=Heterozygote\">More Info</a>",
-                    856598,
+                    599619,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141445711;ScoreType=Homozygote Ref\">More Info</a>",
-                    437739,
+                    306417,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145770432;ScoreType=Homozygote Ref\">More Info</a>",
-                    629164,
+                    440415,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs141445711;ScoreType=Heterozygote\">More Info</a>",
-                    454575,
+                    318203,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs186236551;ScoreType=Heterozygote\">More Info</a>",
-                    299825,
+                    209877,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs186236551;ScoreType=Homozygote Ref\">More Info</a>",
-                    305276,
+                    213693,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs148345924;ScoreType=Homozygote Ref\">More Info</a>",
-                    957374,
+                    670162,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201645538;ScoreType=Heterozygote\">More Info</a>",
-                    19695362,
+                    13786754,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145770432;ScoreType=Heterozygote\">More Info</a>",
-                    700390,
+                    490273,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147574605;ScoreType=Homozygote Ref\">More Info</a>",
-                    5306289,
+                    3714402,
                     0,
                     2
                 ]
@@ -924,61 +924,61 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs146850669;ScoreType=Heterozygote\">More Info</a>",
-                    23054833,
+                    16138383,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs146850669;ScoreType=Homozygote Ref\">More Info</a>",
-                    23432781,
+                    16402947,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs143136847;ScoreType=Heterozygote\">More Info</a>",
-                    14894702,
+                    10426291,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199568342;ScoreType=Heterozygote\">More Info</a>",
-                    9799310,
+                    6859517,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs140980509;ScoreType=Heterozygote\">More Info</a>",
-                    7189778,
+                    5032845,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs11540298;ScoreType=Heterozygote\">More Info</a>",
-                    9968489,
+                    6977943,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs11540298;ScoreType=Homozygote Ref\">More Info</a>",
-                    10119527,
+                    7083669,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs140980509;ScoreType=Homozygote Ref\">More Info</a>",
-                    7521614,
+                    5265130,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199568342;ScoreType=Homozygote Ref\">More Info</a>",
-                    10564881,
+                    7395417,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs143136847;ScoreType=Homozygote Ref\">More Info</a>",
-                    16549668,
+                    11584768,
                     0,
                     2
                 ]
@@ -989,13 +989,13 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145494993;ScoreType=Homozygote Ref\">More Info</a>",
-                    20099770,
+                    14069839,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145494993;ScoreType=Heterozygote\">More Info</a>",
-                    20382865,
+                    14268006,
                     0,
                     2
                 ]
@@ -1006,73 +1006,73 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201709033;ScoreType=Homozygote Ref\">More Info</a>",
-                    12296424,
+                    8607497,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs80066134;ScoreType=Homozygote Ref\">More Info</a>",
-                    11759336,
+                    8231535,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201990007;ScoreType=Homozygote Ref\">More Info</a>",
-                    5366693,
+                    3756686,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199531204;ScoreType=Homozygote Ref\">More Info</a>",
-                    7858613,
+                    5501029,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199531204;ScoreType=Heterozygote\">More Info</a>",
-                    7962015,
+                    5573411,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs80066134;ScoreType=Heterozygote\">More Info</a>",
-                    12394976,
+                    8676483,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201990007;ScoreType=Heterozygote\">More Info</a>",
-                    5652917,
+                    3957042,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 68.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138563185;ScoreType=Homozygote Ref\">More Info</a>",
-                    20264841,
+                    14185389,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 32.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs138563185;ScoreType=Heterozygote\">More Info</a>",
-                    20518151,
+                    14362706,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199750099;ScoreType=Homozygote Ref\">More Info</a>",
-                    21793781,
+                    15255647,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199750099;ScoreType=Heterozygote\">More Info</a>",
-                    22059559,
+                    15441691,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201709033;ScoreType=Heterozygote\">More Info</a>",
-                    14149310,
+                    9904517,
                     0,
                     2
                 ]
@@ -1083,73 +1083,73 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188346136;ScoreType=Homozygote Ref\">More Info</a>",
-                    11919684,
+                    8343779,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs62029711;ScoreType=Heterozygote\">More Info</a>",
-                    18588508,
+                    13011956,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188588901;ScoreType=Homozygote Ref\">More Info</a>",
-                    16932584,
+                    11852809,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs149448818;ScoreType=Heterozygote\">More Info</a>",
-                    13654084,
+                    9557859,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188226725;ScoreType=Homozygote Ref\">More Info</a>",
-                    16394719,
+                    11476304,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs149448818;ScoreType=Homozygote Ref\">More Info</a>",
-                    13964404,
+                    9775083,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188346136;ScoreType=Heterozygote\">More Info</a>",
-                    12761074,
+                    8932752,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188226725;ScoreType=Heterozygote\">More Info</a>",
-                    16947350,
+                    11863145,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs150373765;ScoreType=Heterozygote\">More Info</a>",
-                    19980396,
+                    13986277,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs150373765;ScoreType=Homozygote Ref\">More Info</a>",
-                    20195239,
+                    14136667,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs62029711;ScoreType=Homozygote Ref\">More Info</a>",
-                    20533817,
+                    14373672,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188588901;ScoreType=Heterozygote\">More Info</a>",
-                    18684231,
+                    13078962,
                     0,
                     2
                 ]
@@ -1160,49 +1160,49 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs150734270;ScoreType=Heterozygote\">More Info</a>",
-                    24636094,
+                    17245266,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs149615348;ScoreType=Heterozygote\">More Info</a>",
-                    23772181,
+                    16640527,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs149615348;ScoreType=Homozygote Ref\">More Info</a>",
-                    24014754,
+                    16810328,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200569597;ScoreType=Homozygote Ref\">More Info</a>",
-                    19277384,
+                    13494169,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147961036;ScoreType=Heterozygote\">More Info</a>",
-                    1243893,
+                    870725,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200569597;ScoreType=Heterozygote\">More Info</a>",
-                    19662932,
+                    13764052,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs150734270;ScoreType=Homozygote Ref\">More Info</a>",
-                    26159976,
+                    18311984,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 48.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147961036;ScoreType=Homozygote Ref\">More Info</a>",
-                    1280840,
+                    896588,
                     0,
                     2
                 ]
@@ -1213,85 +1213,85 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs202143000;ScoreType=Homozygote Ref\">More Info</a>",
-                    12246066,
+                    8572246,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200404925;ScoreType=Heterozygote\">More Info</a>",
-                    24287799,
+                    17001460,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs151318731;ScoreType=Homozygote Ref\">More Info</a>",
-                    14689742,
+                    10282820,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200343051;ScoreType=Homozygote Ref\">More Info</a>",
-                    3606486,
+                    2524540,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200343051;ScoreType=Heterozygote\">More Info</a>",
-                    3639879,
+                    2547915,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188788169;ScoreType=Homozygote Ref\">More Info</a>",
-                    8506102,
+                    5954271,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs184266170;ScoreType=Homozygote Ref\">More Info</a>",
-                    11628632,
+                    8140043,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs188788169;ScoreType=Heterozygote\">More Info</a>",
-                    8660758,
+                    6062531,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs200404925;ScoreType=Homozygote Ref\">More Info</a>",
-                    25891711,
+                    18124198,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs202143000;ScoreType=Heterozygote\">More Info</a>",
-                    13295729,
+                    9307010,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs151318731;ScoreType=Heterozygote\">More Info</a>",
-                    15788041,
+                    11051629,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145670888;ScoreType=Homozygote Ref\">More Info</a>",
-                    16115980,
+                    11281186,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs184266170;ScoreType=Heterozygote\">More Info</a>",
-                    12257207,
+                    8580045,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs145670888;ScoreType=Heterozygote\">More Info</a>",
-                    16393842,
+                    11475690,
                     0,
                     2
                 ]
@@ -1302,49 +1302,49 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147585440;ScoreType=Heterozygote\">More Info</a>",
-                    16085477,
+                    11259834,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs147585440;ScoreType=Homozygote Ref\">More Info</a>",
-                    16220649,
+                    11354454,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs184619951;ScoreType=Heterozygote\">More Info</a>",
-                    15479204,
+                    10835443,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs184619951;ScoreType=Homozygote Ref\">More Info</a>",
-                    15607131,
+                    10924992,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 56.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs190612205;ScoreType=Heterozygote\">More Info</a>",
-                    1214708,
+                    850296,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs7236061;ScoreType=Homozygote Ref\">More Info</a>",
-                    4141483,
+                    2899038,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 44.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs190612205;ScoreType=Homozygote Ref\">More Info</a>",
-                    1234460,
+                    864122,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs7236061;ScoreType=Heterozygote\">More Info</a>",
-                    4208281,
+                    2945797,
                     0,
                     2
                 ]
@@ -1355,37 +1355,37 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs184017550;ScoreType=Heterozygote\">More Info</a>",
-                    564755,
+                    395329,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 64.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs192002499;ScoreType=Homozygote Ref\">More Info</a>",
-                    1482762,
+                    1037933,
                     0,
                     3
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs192002499;ScoreType=Heterozygote\">More Info</a>",
-                    1494346,
+                    1046042,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 46.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs192810927;ScoreType=Heterozygote\">More Info</a>",
-                    15877314,
+                    11114120,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 54.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs192810927;ScoreType=Homozygote Ref\">More Info</a>",
-                    15999447,
+                    11199613,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 36.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs184017550;ScoreType=Homozygote Ref\">More Info</a>",
-                    586989,
+                    410893,
                     0,
                     1
                 ]
@@ -1396,49 +1396,49 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs41310831;ScoreType=Heterozygote\">More Info</a>",
-                    25571750,
+                    17900225,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs41310831;ScoreType=Homozygote Ref\">More Info</a>",
-                    25745708,
+                    18021996,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs41282032;ScoreType=Heterozygote\">More Info</a>",
-                    18345669,
+                    12841968,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 50.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs41282032;ScoreType=Homozygote Ref\">More Info</a>",
-                    18468794,
+                    12928156,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 60.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201699062;ScoreType=Heterozygote\">More Info</a>",
-                    9204722,
+                    6443305,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 42.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201796609;ScoreType=Heterozygote\">More Info</a>",
-                    1306245,
+                    914372,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 58.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201796609;ScoreType=Homozygote Ref\">More Info</a>",
-                    1314839,
+                    920387,
                     0,
                     2
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 40.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs201699062;ScoreType=Homozygote Ref\">More Info</a>",
-                    9387597,
+                    6571318,
                     0,
                     1
                 ]
@@ -1449,13 +1449,13 @@
             "annots": [
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 38.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs186952765;ScoreType=Heterozygote\">More Info</a>",
-                    15961378,
+                    11172965,
                     0,
                     1
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Homozygote Ref<br />Likelihood: 62.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs186952765;ScoreType=Homozygote Ref\">More Info</a>",
-                    16064355,
+                    11245048,
                     0,
                     3
                 ]
