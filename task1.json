@@ -294,6 +294,12 @@
                     0
                 ],
                 [
+                    "GWASdiseaseHit: Lung_cancer_in_ever_smokers<br />\n<a target=\"_blank\" href=\"http://www.ebi.ac.uk/efo/EFO_0006527\">More Info</a>",
+                    1004589,
+                    0,
+                    3
+                ],
+                [
                     "Predicted Pathogenic<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=rs199779834\">More Info</a>",
                     60305087,
                     0,
