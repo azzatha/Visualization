@@ -14,22 +14,22 @@
                     "CV_Disease: Immunodeficiency_38_with_basal_ganglia_calcification<br />CV_Status: Carrier_of_Disease<br />CV_Likelihood:100.0<br />\n<a target=\"_blank\" href=\"https://www.omim.org/entry/616126\">More Info</a>",
                     6736504,
                     0,
-                    2,
-                    100
+                    2
+                    
                 ],
                 [
                     "PharmGKB_PhenotypesHit:  <br />ChemicalsAffect: cyclophosphamide<br />PhGKP_Likelihood: 100.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/snp/?term=rs1801133\">More Info</a>",
                     13473007,
                     0,
-                    1,
-                    20
+                    1
+                    
                 ],
                 [
                     "Predicted Pathogenic<br />ScoreType: Heterozygote<br />Likelihood: 52.0<br />\n<a target=\"_blank\" href=\"https://www.ncbi.nlm.nih.gov/search/?term=.;ScoreType=Heterozygote\">More Info</a>",
                     94311046,
                     0,
-                    0,
-                    50
+                    0
+                    
                 ]
           ]
        }
