@@ -3,8 +3,7 @@
         "name",
         "start",
         "length",
-        "trackIndex",
-        "Likelihood"
+        "trackIndex"
     ],
     "annots": [
         {
