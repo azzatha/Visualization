@@ -1,0 +1,40 @@
+{
+    "keys": [
+        "name",
+        "start",
+        "length",
+        "trackIndex",
+        "Likelihood"
+    ],
+    "annots": [
+        {
+            "chr": "1",
+            "annots": [
+                [
+                    "CV_Disease: Immunodeficiency_38_with_basal_ganglia_calcification",
+                    6736504,
+                    0,
+                    2,
+                    10
+                    
+                ],
+                [
+                    "PharmGKB_PhenotypesHit: cyclophosphamide",
+                    13473007,
+                    0,
+                    1,
+                    20
+                    
+                ],
+                [
+                    "Predicted Pathogenic",
+                    94311046,
+                    0,
+                    0,
+                    100
+                    
+                ]
+          ]
+       }
+     ]
+ }
