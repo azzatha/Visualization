@@ -23,6 +23,11 @@
                 "67",
                 "TEST 3",
                 "not null"
+            ],
+            [
+                "67",
+                "TEST 3",
+                "not null"
             ]
          ]
      }
