@@ -4,9 +4,9 @@
         "tableName": "incidents",
         "count": 20000,
         "columnNames": [
-            "id",
-            "subject",
-            "category"
+            "Chromosome",
+            "Position",
+            "Annotation"
         ],
         "rows": [
             [
