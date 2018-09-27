@@ -1,4 +1,4 @@
-
+{
     "items": [
         {
         "tableName": "incidents",
@@ -22,3 +22,4 @@
     ]
 }
     ]
+}
